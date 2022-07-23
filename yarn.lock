@@ -22,10 +22,10 @@
   resolved "https://registry.yarnpkg.com/@cloudscape-design/collection-hooks/-/collection-hooks-1.0.1.tgz#6fd69b778b063499d7bf6c40b7d6cef0b3c91069"
   integrity sha512-g5ZuwU3fhUkrIqkLWdyUjRMgyisgruqPflA5PCoSiRC5Dtl/lAb+SreE9MxRdPJjVEsHVmGQKxutgqJhXYEd6A==
 
-"@cloudscape-design/components@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/components/-/components-3.0.2.tgz#9b48e32a75cceab135670228a183e3affd444144"
-  integrity sha512-ewwycRJG5s75nk7PCsGO9f5cluSwQwVQWtWXKjCkfvjMkEhiPXkFKh/Qxb8zP5Xa0HRNk6jJVtNO5TIiyBPhEQ==
+"@cloudscape-design/components@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/components/-/components-3.0.4.tgz#dec842bce4bd59ea917e3e8f86b1226e060da129"
+  integrity sha512-VQ6Xl9lx3HU/U1LuDpdliFz8PKGWZ59CBmzQFqlI9GRr9ibd/Y2H4JXkTSrnUXgT2f8/yAkJowqWEYEDMMJrQQ==
   dependencies:
     "@cloudscape-design/collection-hooks" "^1.0.0"
     "@cloudscape-design/test-utils-core" "^1.0.0"
